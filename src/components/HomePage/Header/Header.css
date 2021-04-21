@@ -1,0 +1,10 @@
+.header{
+    height: 90vh;
+    background-size: cover;
+}
+
+.header button{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 10px;
+}
